@@ -1,3 +1,5 @@
+Please follow the general structure for each added repository. Add images for block diagram, renders, and the Loop documentation link at the bottom
+
 # \<Repository Name\>
 _insert repository description here_
 
@@ -8,7 +10,4 @@ _insert block diagram here_
 _insert board renders here_
 
 # Documentation
-_insert links to confluence documentation here_
-
-# Folder Structure
-_Please refer to [Folder Structure](Documentation/FolderStructure.md)_
+_insert links to Loop documentation here_
