@@ -1,13 +1,13 @@
 Please follow the general structure for each added branch/project's README. Add images for block diagram, renders, and the Loop documentation link at the bottom
 
-# \<Repository Name\>
-_insert repository description here_
+# \<QKD-LD-001\>
+A custom laser driver control board developed for the McMaster Quantum Key Distribution (QKD) team. The board provides pulse generation, laser selection, current control, and power distribution for an external laser diode driver.
 
 # Block Diagram
-_insert block diagram here_
+<img width="1237" height="817" alt="image" src="https://github.com/user-attachments/assets/f5d1a129-5b24-4ffc-a7a4-eff48920a8f7" />
 
 # Board Renders
 _insert board renders here_
 
 # Documentation
-_insert links to Loop documentation here_
+https://loop.cloud.microsoft/p/eyJ3Ijp7InUiOiJodHRwczovL21jbWFzdGVydTM2NS5zaGFyZXBvaW50LmNvbS8_bmF2PWN6MGxNa1ltWkQxaUlVTkRVbkJyWmpWV2JHdERhalpLTm04dGRYaGxRM2MyYlVvelYxQXdkV2hQYm1SeVJsbGpjbk5VUkVOQmQydFNlSE5YZDJ4U2NsaG9ORUl0ZURaV1JVWW1aajB3TVV0SlZGbzJVRUZRTkRRMFVsbzNRMWhFU2tjelN6ZExOalpTU0VsUldVeFhKbU05Sm1ac2RXbGtQVEUlM0QiLCJyIjpmYWxzZX0sInAiOnsidSI6Imh0dHBzOi8vbWNtYXN0ZXJ1MzY1LnNoYXJlcG9pbnQuY29tL2NvbnRlbnRzdG9yYWdlL0NTUF85MTY5MjQwOC01NWZlLTQwOTYtYTNlOC05ZWE4ZmFlYzVlMGIvRG9jdW1lbnQlMjBMaWJyYXJ5L0xvb3BBcHBEYXRhLyhUZW1wbGF0ZSklMjAlNUJQcm9qZWN0JTIwTmFtZSU1RCUyMC0lMjAlNUJEYXRlJTVEJTIwMS5sb29wP25hdj1jejBsTWtaamIyNTBaVzUwYzNSdmNtRm5aU1V5UmtOVFVGODVNVFk1TWpRd09DMDFOV1psTFRRd09UWXRZVE5sT0MwNVpXRTRabUZsWXpWbE1HSW1aRDFpSVVORFVuQnJaalZXYkd0RGFqWktObTh0ZFhobFEzYzJiVW96VjFBd2RXaFBibVJ5UmxsamNuTlVSRU5CZDJ0U2VITlhkMnhTY2xob05FSXRlRFpXUlVZbVpqMHdNVXRKVkZvMlVFaEhUVVpCTkV0QlUwSlhVa2hhUVVjeVNsbFdNMEZKV1ZGREptTTlKVEpHSm1ac2RXbGtQVEUlM0QiLCJyIjpmYWxzZX0sImkiOnsiaSI6Ijg4NWZkOTFmLTI3NTctNGE3NC05ZDgwLWE3MjBlNjAzNDU4NiJ9fQ
