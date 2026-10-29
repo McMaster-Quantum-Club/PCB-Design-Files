@@ -1,7 +1,5 @@
-Please follow the general structure for each added branch/project's README. Add images for block diagram, renders, and the Loop documentation link at the bottom
-
-# \<QKD-LD-001\>
-A custom laser driver control board developed for the McMaster Quantum Key Distribution (QKD) team. The board provides pulse generation, laser selection, current control, and power distribution for an external laser diode driver.
+# QKD-LD-002
+A custom high speed laser driver board intended to be used in QKD (Quantum Key Distribution) protocols.
 
 # Block Diagram
 <img width="1237" height="817" alt="image" src="https://github.com/user-attachments/assets/f5d1a129-5b24-4ffc-a7a4-eff48920a8f7" />
