@@ -1,4 +1,4 @@
-Please follow the general structure for each added branch/project. Add images for block diagram, renders, and the Loop documentation link at the bottom
+Please follow the general structure for each added branch/project's README. Add images for block diagram, renders, and the Loop documentation link at the bottom
 
 # \<Repository Name\>
 _insert repository description here_
