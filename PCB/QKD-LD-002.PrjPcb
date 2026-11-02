@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 ConstraintManagerFlow=0
-IsVirtualBomDocumentRemoved=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -116,7 +116,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TVDVZASX
 
 [Document5]
 DocumentPath=..\Library\THORLABS_S80602.SchLib
@@ -133,7 +133,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ORGZMIIC
 
 [Document6]
 DocumentPath=..\Library\THORLABS_S7060R.PcbLib
@@ -167,7 +167,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BPMZILXP
 
 [Document8]
 DocumentPath=QKD-LD-002.OutJob
@@ -218,7 +218,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MZXDMYJY
 
 [ProjectVariant1]
 UniqueId=65f5c987-a680-4766-ab03-fbf46d2a5e5c
@@ -226,9 +226,33 @@ Description=Assembly
 AllowFabrication=0
 ParameterCount=0
 VariationCount=2
-Variation1=Designator=R3|UniqueId=\FPZWGGGQ|Kind=1|AlternatePart=
-Variation2=Designator=C8|UniqueId=\LFLFTJWT|Kind=1|AlternatePart=
+Variation1=Designator=R5|UniqueId=\FPZWGGGQ|Kind=1|AlternatePart=
+Variation2=Designator=C9|UniqueId=\LFLFTJWT|Kind=1|AlternatePart=
 ParamVariationCount=0
+
+[Parameter1]
+Name=DrawnBy
+Value=Adam Szautner
+
+[Parameter2]
+Name=LastMod
+Value=Nov. 1st, 2026
+
+[Parameter3]
+Name=PN
+Value=QKD-LD-002
+
+[Parameter4]
+Name=Prg
+Value=Quantum Key Distribution
+
+[Parameter5]
+Name=Prj
+Value=Laser Driver
+
+[Parameter6]
+Name=Rev
+Value=1.0
 
 [Configuration1]
 Name=Sources
