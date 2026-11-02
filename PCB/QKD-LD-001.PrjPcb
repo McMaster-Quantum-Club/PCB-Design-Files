@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NLWIOUNF
 
 [Document2]
 DocumentPath=..\Schematic\Pulse Generation.SchDoc
@@ -73,7 +73,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IXUMIBQR
 
 [Document3]
 DocumentPath=..\Schematic\Peripherals.SchDoc
@@ -90,7 +90,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XCUIDDLP
 
 [Document4]
 DocumentPath=QKD-LD-001.OutJob
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=QKD-LD-001.BomDoc
+DocumentPath=QKD-LD-001.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,28 +135,28 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=DrawnBy
-Value=Adam Szautner
+Name=Revision
+Value=1.0
 
 [Parameter2]
-Name=LastMod
-Value=Oct 27th, 2026
-
-[Parameter3]
-Name=PN
-Value=QKD-LD-001
-
-[Parameter4]
-Name=Prg
-Value=Quantum Key Distribution
-
-[Parameter5]
 Name=Prj
 Value=Laser Driver
 
+[Parameter3]
+Name=Prg
+Value=Quantum Key Distribution
+
+[Parameter4]
+Name=PN
+Value=QKD-LD-001
+
+[Parameter5]
+Name=LastMod
+Value=Nov 1st, 2026
+
 [Parameter6]
-Name=Revision
-Value=1.0
+Name=DrawnBy
+Value=Adam Szautner
 
 [Configuration1]
 Name=Sources
