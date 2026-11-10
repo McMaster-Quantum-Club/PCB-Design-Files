@@ -242,9 +242,11 @@ UniqueId=65f5c987-a680-4766-ab03-fbf46d2a5e5c
 Description=Assembly
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=R5|UniqueId=\FPZWGGGQ|Kind=1|AlternatePart=
-Variation2=Designator=C9|UniqueId=\LFLFTJWT|Kind=1|AlternatePart=
+VariationCount=4
+Variation1=Designator=R9|UniqueId=\FPZWGGGQ|Kind=1|AlternatePart=
+Variation2=Designator=C9|UniqueId=\DRONUNCP|Kind=1|AlternatePart=
+Variation3=Designator=D5|UniqueId=\XZVMUEBH|Kind=1|AlternatePart=
+Variation4=Designator=D6|UniqueId=\OQXEHRJM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
