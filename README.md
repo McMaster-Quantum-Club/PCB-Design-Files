@@ -2,7 +2,8 @@
 A custom high speed laser driver board intended to be used in QKD (Quantum Key Distribution) protocols.
 
 # Block Diagram
-<img width="1237" height="817" alt="image" src="https://github.com/user-attachments/assets/f5d1a129-5b24-4ffc-a7a4-eff48920a8f7" />
+<img width="646" height="293" alt="image" src="https://github.com/user-attachments/assets/b8f669fd-370d-487e-ab1e-30eebbca5037" />
+
 
 # Board Renders
 _insert board renders here_
